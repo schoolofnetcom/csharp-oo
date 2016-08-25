@@ -1,0 +1,6 @@
+E:\_ANYBAL\_SchoolOfNet\C#_Orientacao_Objetos\Projeto\CSharpOO\POO\bin\Debug\POO.exe.config
+E:\_ANYBAL\_SchoolOfNet\C#_Orientacao_Objetos\Projeto\CSharpOO\POO\bin\Debug\POO.exe
+E:\_ANYBAL\_SchoolOfNet\C#_Orientacao_Objetos\Projeto\CSharpOO\POO\bin\Debug\POO.pdb
+E:\_ANYBAL\_SchoolOfNet\C#_Orientacao_Objetos\Projeto\CSharpOO\POO\obj\Debug\POO.csprojResolveAssemblyReference.cache
+E:\_ANYBAL\_SchoolOfNet\C#_Orientacao_Objetos\Projeto\CSharpOO\POO\obj\Debug\POO.exe
+E:\_ANYBAL\_SchoolOfNet\C#_Orientacao_Objetos\Projeto\CSharpOO\POO\obj\Debug\POO.pdb

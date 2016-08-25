@@ -1,0 +1,1 @@
+﻿Projeto destinado aos desenvolvedores iniciantes em C# que vão explorar os diversos recursos da Orientação a Objetos.
